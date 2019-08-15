@@ -14,7 +14,7 @@ $(document).ready(function() {
             menu.removeAttr('style');
         }
     });
-});
+})(jQuery);
 function myFunction() {
     document.getElementById("myDropdown").classList.toggle("show");
   }
