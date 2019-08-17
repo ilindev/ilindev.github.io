@@ -197,9 +197,9 @@ body {
         -webkit-flex-grow: 1;
             -ms-flex-positive: 1;
                 flex-grow: 1;
-        -webkit-flex-basis: 400px;
-            -ms-flex-preferred-size: 400px;
-                flex-basis: 400px;
+        -webkit-flex-basis: 366px;
+            -ms-flex-preferred-size: 366px;
+                flex-basis: 366px;
         padding: 10px; }
         body .main .works .works_wrapper .works_item .works_item_image img {
           width: 100%;
